@@ -1,0 +1,7 @@
+streamlit
+folium
+googlemaps
+geopy
+requests
+plotly
+streamlit-folium
